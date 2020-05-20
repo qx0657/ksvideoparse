@@ -4,3 +4,12 @@
 ## 博客地址：
 
 [http://blog.qianxiao.fun/?p=916](http://blog.qianxiao.fun/?p=916 "PHP实现快手视频解析接口-浅笑博客-qianxiao.fun")
+
+## 接口演示：
+
+[http://api.qianxiao.fun/ksvideoparse/demo.html](http://api.qianxiao.fun/ksvideoparse/demo.html "快手短视频解析API-demo-浅笑api平台-api.qianxiao.fun")
+
+## 更多
+
+浅笑API平台：
+[http://api.qianxiao.fun](http://api.qianxiao.fun "浅笑api平台-api.qianxiao.fun")
