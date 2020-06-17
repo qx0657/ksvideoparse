@@ -40,7 +40,7 @@ if (count($originurlmatches) == 0) {
 	#获取302重定向地址页面的响应体
 	$content2 = getResponseBody($url2);
 	#正则取出关键数据
-	preg_match("~data-pagedata=\"(.*?)\"~", $content2, $matches);
+	preg_match("~window.pageData=(.*?)</script>~", $content2, $matches);
 	if (count($matches) <= 1) {
 		#没有正则到关键数据
 		retn(-6,"解析失败002");
